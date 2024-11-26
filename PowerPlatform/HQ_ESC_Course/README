@@ -1,1 +1,3 @@
 This is one of the first full projects I built for HQ AFRC Recruiting Service. They have a selection course where they evaluate potential recruiters. 
+
+It's pretty basic, but uses a sharepoint as the database then calls data as requested, lets you input data in the beautiful GUI type infrastructure.
